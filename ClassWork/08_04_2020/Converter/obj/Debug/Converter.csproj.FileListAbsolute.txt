@@ -1,0 +1,6 @@
+E:\WCF\ClassWork\08_04_2020\Converter\bin\Debug\Converter.exe.config
+E:\WCF\ClassWork\08_04_2020\Converter\bin\Debug\Converter.exe
+E:\WCF\ClassWork\08_04_2020\Converter\bin\Debug\Converter.pdb
+E:\WCF\ClassWork\08_04_2020\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+E:\WCF\ClassWork\08_04_2020\Converter\obj\Debug\Converter.exe
+E:\WCF\ClassWork\08_04_2020\Converter\obj\Debug\Converter.pdb
