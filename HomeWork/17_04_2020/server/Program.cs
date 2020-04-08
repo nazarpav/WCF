@@ -9,11 +9,12 @@ using System.Threading.Tasks;
 namespace server
 {
     [ServiceContract]
-    public interface IGetFolders
+    public interface ITask1
     {
         [OperationContract]
-        string[] Add(string Path);
+        string[] GetDiskInfo(string Path);
     }
+    [ServiceContract]
     public interface ITask2
     {
         [OperationContract]
@@ -22,37 +23,52 @@ namespace server
         string FreeSpace(string Path);
     }
 
-    //[ServiceContract(Name = "MyServiceName")]
-    public class GetFolders : IGetFolders
+    public class DiskInfo : ITask1, ITask2
     {
-        //[OperationContract(Name = "MyOperationName")]
-        public string[] Add(string Path)
+        public string[] GetDiskInfo(string Path_)
         {
-            string[] res=null;
+            List<string> ress = new List<string>();
             try
             {
-                res = Directory.GetDirectories(Path);
-                res =res.Concat(Directory.GetFiles(Path)).ToArray();
+                ress.Add(@"Content for path: " + Path_);
+                foreach (var item in Directory.GetDirectories(Path_))
+                {
+                    ress.Add(Path.GetDirectoryName(item) + " - Directory");
+                }
+                foreach (var item in Directory.GetFiles(Path_))
+                {
+                    ress.Add(Path.GetFileName(item) + " - File");
+                }
             }
             catch
             {
                 return null;
             }
-            return res;
+            return ress.ToArray();
         }
-    }
-    public class Task2 : ITask2
-    {
         public string FreeSpace(string Path)
         {
-            DriveInfo di = new DriveInfo(Path[0].ToString());
-            return di.AvailableFreeSpace+"";
+            try
+            {
+                DriveInfo di = new DriveInfo(Path[0].ToString());
+                return "AvailableFreeSpace(byte): " + di.TotalFreeSpace + "";
+            }
+            catch
+            {
+                return "Wrong disk!";
+            }
         }
-
         public string TotalSpace(string Path)
         {
-            DriveInfo di = new DriveInfo(Path[0].ToString());
-            return di.TotalFreeSpace + "";
+            try
+            {
+                DriveInfo di = new DriveInfo(Path[0].ToString());
+                return "TotalFreeSpace(byte): " + di.TotalSize + "";
+            }
+            catch
+            {
+                return "Wrong disk!";
+            }
         }
     }
 
@@ -60,7 +76,7 @@ namespace server
     {
         static void Main(string[] args)
         {
-            ServiceHost sh2 = new ServiceHost(typeof(GetFolders));
+            ServiceHost sh2 = new ServiceHost(typeof(DiskInfo));
             //ServiceHost sh2 = new ServiceHost(typeof(Task2));
 
             //sh.AddServiceEndpoint(

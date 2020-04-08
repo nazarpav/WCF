@@ -4,3 +4,9 @@ E:\WCF\ClassWork\07_04_2020\07_04_2020\bin\Debug\07_04_2020.pdb
 E:\WCF\ClassWork\07_04_2020\07_04_2020\obj\Debug\07_04_2020.csprojAssemblyReference.cache
 E:\WCF\ClassWork\07_04_2020\07_04_2020\obj\Debug\07_04_2020.exe
 E:\WCF\ClassWork\07_04_2020\07_04_2020\obj\Debug\07_04_2020.pdb
+E:\WCF\HomeWork\17_04_2020\07_04_2020\obj\Debug\07_04_2020.csprojAssemblyReference.cache
+E:\WCF\HomeWork\17_04_2020\07_04_2020\obj\Debug\07_04_2020.exe
+E:\WCF\HomeWork\17_04_2020\07_04_2020\obj\Debug\07_04_2020.pdb
+E:\WCF\HomeWork\17_04_2020\07_04_2020\bin\Debug\07_04_2020.exe.config
+E:\WCF\HomeWork\17_04_2020\07_04_2020\bin\Debug\07_04_2020.exe
+E:\WCF\HomeWork\17_04_2020\07_04_2020\bin\Debug\07_04_2020.pdb
