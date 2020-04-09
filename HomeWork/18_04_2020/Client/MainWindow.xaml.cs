@@ -31,10 +31,17 @@ namespace Client
         {
             using (ConvertedClient convertedClient = new ConvertedClient())
             {
-                ConvertedUnits convertedUnits = Dispatcher.Invoke(() =>  convertedClient.LinearMeasure(double.Parse(LinearMeasure_before.Text)));
-                Dispatcher.Invoke(()=>LinearMeasure_after.Text = "Yard: " + convertedUnits.yard + " | Foot: " + convertedUnits.foot + " | Inch: " + convertedUnits.inch);
-                Dispatcher.Invoke(() => FahrenheitToCelsius_after.Text = convertedClient.FahrenheitToCelsius(double.Parse(FahrenheitToCelsius_before.Text)).Celsius.ToString());
-                Dispatcher.Invoke(() => CelsiusToFahrenheit_after.Text = convertedClient.CelsiusToFahrenheit(double.Parse(CelsiusToFahrenheit_before.Text)).Fahrenheit.ToString());
+                try
+                {
+                    ConvertedUnits convertedUnits = Dispatcher.Invoke(() => convertedClient.LinearMeasure(double.Parse(LinearMeasure_before.Text)));
+                    Dispatcher.Invoke(() => LinearMeasure_after.Text = "Yard: " + convertedUnits.yard + " | Foot: " + convertedUnits.foot + " | Inch: " + convertedUnits.inch);
+                    Dispatcher.Invoke(() => FahrenheitToCelsius_after.Text = convertedClient.FahrenheitToCelsius(double.Parse(FahrenheitToCelsius_before.Text)).Celsius.ToString());
+                    Dispatcher.Invoke(() => CelsiusToFahrenheit_after.Text = convertedClient.CelsiusToFahrenheit(double.Parse(CelsiusToFahrenheit_before.Text)).Fahrenheit.ToString());
+                }
+                catch
+                {
+                    MessageBox.Show("Error");
+                }
             }
         }
     }
