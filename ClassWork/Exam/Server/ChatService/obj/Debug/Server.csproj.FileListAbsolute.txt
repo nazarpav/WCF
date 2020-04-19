@@ -1,0 +1,7 @@
+C:\Projects\WCF\ClassWork\Exam\Server\ChatService\bin\Debug\ChatService.dll.config
+C:\Projects\WCF\ClassWork\Exam\Server\ChatService\bin\Debug\ChatService.dll
+C:\Projects\WCF\ClassWork\Exam\Server\ChatService\bin\Debug\ChatService.pdb
+C:\Projects\WCF\ClassWork\Exam\Server\ChatService\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Projects\WCF\ClassWork\Exam\Server\ChatService\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Projects\WCF\ClassWork\Exam\Server\ChatService\obj\Debug\ChatService.dll
+C:\Projects\WCF\ClassWork\Exam\Server\ChatService\obj\Debug\ChatService.pdb

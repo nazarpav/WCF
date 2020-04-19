@@ -1,0 +1,14 @@
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatServer\ChatService\bin\Debug\ChatService.dll.config
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatServer\ChatService\bin\Debug\ChatService.dll
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatServer\ChatService\bin\Debug\ChatService.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatServer\ChatService\obj\Debug\ChatService.csprojAssemblyReference.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatServer\ChatService\obj\Debug\ChatService.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatServer\ChatService\obj\Debug\ChatService.dll
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatServer\ChatService\obj\Debug\ChatService.pdb
+C:\Projects\WCF\ClassWork\15_04_2020\ChatServer\ChatService\bin\Debug\ChatService.dll.config
+C:\Projects\WCF\ClassWork\15_04_2020\ChatServer\ChatService\bin\Debug\ChatService.dll
+C:\Projects\WCF\ClassWork\15_04_2020\ChatServer\ChatService\bin\Debug\ChatService.pdb
+C:\Projects\WCF\ClassWork\15_04_2020\ChatServer\ChatService\obj\Debug\ChatService.csprojAssemblyReference.cache
+C:\Projects\WCF\ClassWork\15_04_2020\ChatServer\ChatService\obj\Debug\ChatService.csproj.CoreCompileInputs.cache
+C:\Projects\WCF\ClassWork\15_04_2020\ChatServer\ChatService\obj\Debug\ChatService.dll
+C:\Projects\WCF\ClassWork\15_04_2020\ChatServer\ChatService\obj\Debug\ChatService.pdb

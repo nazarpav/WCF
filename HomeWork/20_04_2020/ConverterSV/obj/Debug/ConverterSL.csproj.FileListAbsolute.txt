@@ -1,0 +1,6 @@
+C:\Projects\WCF\HomeWork\20_04_2020\ConverterSV\obj\Debug\ConverterSL.csproj.CoreCompileInputs.cache
+C:\Projects\WCF\HomeWork\20_04_2020\ConverterSV\bin\Debug\ConverterSV.dll.config
+C:\Projects\WCF\HomeWork\20_04_2020\ConverterSV\bin\Debug\ConverterSV.dll
+C:\Projects\WCF\HomeWork\20_04_2020\ConverterSV\bin\Debug\ConverterSV.pdb
+C:\Projects\WCF\HomeWork\20_04_2020\ConverterSV\obj\Debug\ConverterSV.dll
+C:\Projects\WCF\HomeWork\20_04_2020\ConverterSV\obj\Debug\ConverterSV.pdb

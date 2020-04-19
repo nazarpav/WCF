@@ -1,0 +1,76 @@
+﻿Installing assembly 'C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.InstallLog
+   assemblypath = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.InstallLog
+   assemblypath = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe
+Uninstalling assembly 'C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.InstallLog
+   assemblypath = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.InstallLog
+   assemblypath = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.InstallLog
+   assemblypath = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe
+Uninstalling assembly 'C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.InstallLog
+   assemblypath = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.InstallLog
+   assemblypath = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.InstallLog
+   assemblypath = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe
+Installing assembly 'C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.InstallLog
+   assemblypath = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.InstallLog
+   assemblypath = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.InstallLog
+   assemblypath = C:\Projects\WCF\HomeWork\20_04_2020\WinServ\bin\Debug\WinServ.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
