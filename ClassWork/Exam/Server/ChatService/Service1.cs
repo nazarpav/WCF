@@ -47,6 +47,10 @@ namespace ChatService
                 Field[1][0] != null && Field[1][0] == Field[1][1] && Field[1][0] == Field[1][2] ||
                 Field[2][0] != null && Field[2][0] == Field[2][1] && Field[2][0] == Field[2][2] ||
                 ///////////////////////
+                Field[0][0] != null && Field[0][0] == Field[1][0] && Field[0][0] == Field[2][0] ||
+                Field[0][1] != null && Field[0][1] == Field[1][1] && Field[0][1] == Field[2][1] ||
+                Field[0][2] != null && Field[0][2] == Field[1][2] && Field[0][2] == Field[2][2] ||
+                ///////////////////////
                 Field[0][0] != null && Field[0][0] == Field[1][1] && Field[0][0] == Field[2][2] ||
                 Field[0][2] != null && Field[0][2] == Field[1][1] && Field[0][2] == Field[2][0];
         }
