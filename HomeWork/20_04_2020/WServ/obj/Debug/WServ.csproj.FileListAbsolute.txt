@@ -1,0 +1,13 @@
+C:\Projects\WCF\HomeWork\20_04_2020\WServ\bin\Debug\WServ.exe.config
+C:\Projects\WCF\HomeWork\20_04_2020\WServ\bin\Debug\WServ.exe
+C:\Projects\WCF\HomeWork\20_04_2020\WServ\bin\Debug\WServ.pdb
+C:\Projects\WCF\HomeWork\20_04_2020\WServ\bin\Debug\ConverterSL.dll
+C:\Projects\WCF\HomeWork\20_04_2020\WServ\bin\Debug\ConverterSL.pdb
+C:\Projects\WCF\HomeWork\20_04_2020\WServ\bin\Debug\ConverterSL.dll.config
+C:\Projects\WCF\HomeWork\20_04_2020\WServ\obj\Debug\WServ.csprojAssemblyReference.cache
+C:\Projects\WCF\HomeWork\20_04_2020\WServ\obj\Debug\WServ.ProjectInstaller.resources
+C:\Projects\WCF\HomeWork\20_04_2020\WServ\obj\Debug\WServ.csproj.GenerateResource.cache
+C:\Projects\WCF\HomeWork\20_04_2020\WServ\obj\Debug\WServ.csproj.CoreCompileInputs.cache
+C:\Projects\WCF\HomeWork\20_04_2020\WServ\obj\Debug\WServ.csproj.CopyComplete
+C:\Projects\WCF\HomeWork\20_04_2020\WServ\obj\Debug\WServ.exe
+C:\Projects\WCF\HomeWork\20_04_2020\WServ\obj\Debug\WServ.pdb

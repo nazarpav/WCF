@@ -1,0 +1,7 @@
+C:\Projects\WCF\HomeWork\20_04_2020\ConverterSL\bin\Debug\ConverterSL.dll.config
+C:\Projects\WCF\HomeWork\20_04_2020\ConverterSL\bin\Debug\ConverterSL.dll
+C:\Projects\WCF\HomeWork\20_04_2020\ConverterSL\bin\Debug\ConverterSL.pdb
+C:\Projects\WCF\HomeWork\20_04_2020\ConverterSL\obj\Debug\ConverterSL.csprojAssemblyReference.cache
+C:\Projects\WCF\HomeWork\20_04_2020\ConverterSL\obj\Debug\ConverterSL.csproj.CoreCompileInputs.cache
+C:\Projects\WCF\HomeWork\20_04_2020\ConverterSL\obj\Debug\ConverterSL.dll
+C:\Projects\WCF\HomeWork\20_04_2020\ConverterSL\obj\Debug\ConverterSL.pdb

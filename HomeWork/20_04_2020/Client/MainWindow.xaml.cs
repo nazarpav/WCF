@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using Client.Converter;
+using Client.ServiceReference1;
 
 namespace Client
 {
@@ -29,7 +29,7 @@ namespace Client
         }
         private void Convert()
         {
-            using (ConvertedClient convertedClient = new ConvertedClient())
+            using (ConverterClient convertedClient = new ConverterClient())
             {
                 try
                 {
