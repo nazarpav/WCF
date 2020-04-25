@@ -1,0 +1,60 @@
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatWindow\ChatWindow\bin\Debug\ChatWindow.exe.config
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatWindow\ChatWindow\bin\Debug\ChatWindow.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatWindow\ChatWindow\bin\Debug\ChatWindow.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatWindow\ChatWindow\obj\Debug\ChatWindow.csprojAssemblyReference.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatWindow\ChatWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatWindow\ChatWindow\obj\Debug\App.g.cs
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatWindow\ChatWindow\obj\Debug\ChatWindow_MarkupCompile.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatWindow\ChatWindow\obj\Debug\ChatWindow_MarkupCompile.lref
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatWindow\ChatWindow\obj\Debug\MainWindow.baml
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatWindow\ChatWindow\obj\Debug\ChatWindow.g.resources
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatWindow\ChatWindow\obj\Debug\ChatWindow.Properties.Resources.resources
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatWindow\ChatWindow\obj\Debug\ChatWindow.csproj.GenerateResource.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatWindow\ChatWindow\obj\Debug\ChatWindow.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatWindow\ChatWindow\obj\Debug\ChatWindow.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\14. FT - Windows Comunication Foundation\ChatWindow\ChatWindow\obj\Debug\ChatWindow.pdb
+C:\Projects\WCF\ClassWork\15_04_2020\ChatWindow\ChatWindow\bin\Debug\ChatWindow.exe.config
+C:\Projects\WCF\ClassWork\15_04_2020\ChatWindow\ChatWindow\bin\Debug\ChatWindow.exe
+C:\Projects\WCF\ClassWork\15_04_2020\ChatWindow\ChatWindow\bin\Debug\ChatWindow.pdb
+C:\Projects\WCF\ClassWork\15_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow.csprojAssemblyReference.cache
+C:\Projects\WCF\ClassWork\15_04_2020\ChatWindow\ChatWindow\obj\Debug\MainWindow.g.cs
+C:\Projects\WCF\ClassWork\15_04_2020\ChatWindow\ChatWindow\obj\Debug\App.g.cs
+C:\Projects\WCF\ClassWork\15_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow_MarkupCompile.cache
+C:\Projects\WCF\ClassWork\15_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow_MarkupCompile.lref
+C:\Projects\WCF\ClassWork\15_04_2020\ChatWindow\ChatWindow\obj\Debug\MainWindow.baml
+C:\Projects\WCF\ClassWork\15_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow.g.resources
+C:\Projects\WCF\ClassWork\15_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow.Properties.Resources.resources
+C:\Projects\WCF\ClassWork\15_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow.csproj.GenerateResource.cache
+C:\Projects\WCF\ClassWork\15_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow.csproj.CoreCompileInputs.cache
+C:\Projects\WCF\ClassWork\15_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow.exe
+C:\Projects\WCF\ClassWork\15_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow.pdb
+C:\Projects\WCF\HomeWork\25_04_2020\ChatWindow\ChatWindow\bin\Debug\ChatWindow.exe.config
+C:\Projects\WCF\HomeWork\25_04_2020\ChatWindow\ChatWindow\bin\Debug\ChatWindow.exe
+C:\Projects\WCF\HomeWork\25_04_2020\ChatWindow\ChatWindow\bin\Debug\ChatWindow.pdb
+C:\Projects\WCF\HomeWork\25_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow.csprojAssemblyReference.cache
+C:\Projects\WCF\HomeWork\25_04_2020\ChatWindow\ChatWindow\obj\Debug\MainWindow.g.cs
+C:\Projects\WCF\HomeWork\25_04_2020\ChatWindow\ChatWindow\obj\Debug\App.g.cs
+C:\Projects\WCF\HomeWork\25_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow_MarkupCompile.cache
+C:\Projects\WCF\HomeWork\25_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow_MarkupCompile.lref
+C:\Projects\WCF\HomeWork\25_04_2020\ChatWindow\ChatWindow\obj\Debug\MainWindow.baml
+C:\Projects\WCF\HomeWork\25_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow.g.resources
+C:\Projects\WCF\HomeWork\25_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow.Properties.Resources.resources
+C:\Projects\WCF\HomeWork\25_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow.csproj.GenerateResource.cache
+C:\Projects\WCF\HomeWork\25_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow.csproj.CoreCompileInputs.cache
+C:\Projects\WCF\HomeWork\25_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow.exe
+C:\Projects\WCF\HomeWork\25_04_2020\ChatWindow\ChatWindow\obj\Debug\ChatWindow.pdb
+C:\Projects\WCF\HomeWork\25_04_2020_2\ChatWindow\ChatWindow\bin\Debug\ChatWindow.exe.config
+C:\Projects\WCF\HomeWork\25_04_2020_2\ChatWindow\ChatWindow\bin\Debug\ChatWindow.exe
+C:\Projects\WCF\HomeWork\25_04_2020_2\ChatWindow\ChatWindow\bin\Debug\ChatWindow.pdb
+C:\Projects\WCF\HomeWork\25_04_2020_2\ChatWindow\ChatWindow\obj\Debug\ChatWindow.csprojAssemblyReference.cache
+C:\Projects\WCF\HomeWork\25_04_2020_2\ChatWindow\ChatWindow\obj\Debug\MainWindow.g.cs
+C:\Projects\WCF\HomeWork\25_04_2020_2\ChatWindow\ChatWindow\obj\Debug\App.g.cs
+C:\Projects\WCF\HomeWork\25_04_2020_2\ChatWindow\ChatWindow\obj\Debug\ChatWindow_MarkupCompile.cache
+C:\Projects\WCF\HomeWork\25_04_2020_2\ChatWindow\ChatWindow\obj\Debug\ChatWindow_MarkupCompile.lref
+C:\Projects\WCF\HomeWork\25_04_2020_2\ChatWindow\ChatWindow\obj\Debug\MainWindow.baml
+C:\Projects\WCF\HomeWork\25_04_2020_2\ChatWindow\ChatWindow\obj\Debug\ChatWindow.g.resources
+C:\Projects\WCF\HomeWork\25_04_2020_2\ChatWindow\ChatWindow\obj\Debug\ChatWindow.Properties.Resources.resources
+C:\Projects\WCF\HomeWork\25_04_2020_2\ChatWindow\ChatWindow\obj\Debug\ChatWindow.csproj.GenerateResource.cache
+C:\Projects\WCF\HomeWork\25_04_2020_2\ChatWindow\ChatWindow\obj\Debug\ChatWindow.csproj.CoreCompileInputs.cache
+C:\Projects\WCF\HomeWork\25_04_2020_2\ChatWindow\ChatWindow\obj\Debug\ChatWindow.exe
+C:\Projects\WCF\HomeWork\25_04_2020_2\ChatWindow\ChatWindow\obj\Debug\ChatWindow.pdb
