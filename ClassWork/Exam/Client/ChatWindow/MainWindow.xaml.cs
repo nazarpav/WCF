@@ -309,6 +309,7 @@ namespace ChatWindow
             try
             {
                 proxy.Logout(YourName.Text);
+                EndGame();
                 YourName.IsEnabled = true;
             }
             catch (Exception ex)
