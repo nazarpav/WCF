@@ -1,0 +1,12 @@
+C:\Projects\WCF\HomeWork\23_04_2020\DAL_\bin\Debug\DAL_.dll.config
+C:\Projects\WCF\HomeWork\23_04_2020\DAL_\bin\Debug\DAL_.dll
+C:\Projects\WCF\HomeWork\23_04_2020\DAL_\bin\Debug\DAL_.pdb
+C:\Projects\WCF\HomeWork\23_04_2020\DAL_\bin\Debug\EntityFramework.dll
+C:\Projects\WCF\HomeWork\23_04_2020\DAL_\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\WCF\HomeWork\23_04_2020\DAL_\bin\Debug\EntityFramework.xml
+C:\Projects\WCF\HomeWork\23_04_2020\DAL_\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\WCF\HomeWork\23_04_2020\DAL_\obj\Debug\DAL_.csprojAssemblyReference.cache
+C:\Projects\WCF\HomeWork\23_04_2020\DAL_\obj\Debug\DAL_.csproj.CoreCompileInputs.cache
+C:\Projects\WCF\HomeWork\23_04_2020\DAL_\obj\Debug\DAL_.csproj.CopyComplete
+C:\Projects\WCF\HomeWork\23_04_2020\DAL_\obj\Debug\DAL_.dll
+C:\Projects\WCF\HomeWork\23_04_2020\DAL_\obj\Debug\DAL_.pdb

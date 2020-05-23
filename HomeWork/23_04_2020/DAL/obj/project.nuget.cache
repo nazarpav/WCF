@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KVC4puoER3tTsxI+LM42OqMgE4X8ks2HQf/262okQvvCIsQokqJpNQfKeqJXB4qinnnSqkzqNENOXU1y5ozyKA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\WCF\\HomeWork\\23_04_2020\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROOT\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\ROOT\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ROOT\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

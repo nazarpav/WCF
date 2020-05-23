@@ -1,0 +1,53 @@
+﻿<Window x:Class="_23_04_2020.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_23_04_2020"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FF424B59">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="45"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Add new word" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="16" FontFamily="Comic Sans MS" FontWeight="Bold"/>
+        <Label Content="Get translations" Grid.Column="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="16" FontFamily="Comic Sans MS" FontWeight="Bold"/>
+        <Grid Grid.Row="1" Grid.Column="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Word: " VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="16" FontFamily="Comic Sans MS" FontWeight="Bold" Grid.Column="0"/>
+            <TextBox Name="Word" Margin="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="20" FontFamily="Comic Sans MS" FontWeight="Bold" Background="#FF79B9A2" Grid.Column="1"/>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Translate: " VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="16" FontFamily="Comic Sans MS" FontWeight="Bold" Grid.Column="0"/>
+            <TextBox Name="Translate" Margin="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="20" FontFamily="Comic Sans MS" FontWeight="Bold" Background="#FF79B9A2" Grid.Column="1"/>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Word: " VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="16" FontFamily="Comic Sans MS" FontWeight="Bold" Grid.Column="0"/>
+            <TextBox  Margin="3" Name="WordTranslation" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="20" FontFamily="Comic Sans MS" FontWeight="Bold" Background="#FF79B9A2" Grid.Column="1"/>
+        </Grid>
+        <ListView Grid.Row="3" Margin="3" Background="#FFAADCD3" Name="History" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  FontSize="16" FontFamily="Comic Sans MS"/>
+        <ListView Grid.Row="2" Grid.RowSpan="2" Grid.Column="1" Margin="3" Background="#FFAADCD3" Name="TranslationList" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  FontSize="16" FontFamily="Comic Sans MS"/>
+
+        <Button Grid.Row="10" Grid.Column="0" Content="Add" Margin="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="20" FontFamily="Comic Sans MS" FontWeight="Bold" Background="#FF688756" Click="Button_Click"/>
+        <Button Grid.Row="10" Grid.Column="1" Content="Get" Margin="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="20" FontFamily="Comic Sans MS" FontWeight="Bold" Background="#FF565887" Click="Button_Click_1"/>
+    </Grid>
+</Window>

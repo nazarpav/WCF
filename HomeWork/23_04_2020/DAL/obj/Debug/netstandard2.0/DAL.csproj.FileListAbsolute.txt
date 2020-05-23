@@ -1,0 +1,9 @@
+C:\Projects\WCF\HomeWork\23_04_2020\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Projects\WCF\HomeWork\23_04_2020\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Projects\WCF\HomeWork\23_04_2020\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Projects\WCF\HomeWork\23_04_2020\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Projects\WCF\HomeWork\23_04_2020\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Projects\WCF\HomeWork\23_04_2020\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Projects\WCF\HomeWork\23_04_2020\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Projects\WCF\HomeWork\23_04_2020\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Projects\WCF\HomeWork\23_04_2020\DAL\obj\Debug\netstandard2.0\DAL.pdb
